@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990475261784",
+    "project_id": "groceease",
+    "storage_bucket": "groceease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990475261784:android:52b4a119cd957d6cff372d",
+        "android_client_info": {
+          "package_name": "com.ashish.groceease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-E5-hOnX5-T2QpC0b0mHnY4hUwfuwUXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

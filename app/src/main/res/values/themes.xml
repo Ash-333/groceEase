@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.GroceEase" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_200</item>
+    </style>
+
+    <style name="SplashScreenTheme" parent="Theme.GroceEase">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="android:windowBackground">@drawable/shopping</item>
+        <item name="windowSplashScreenAnimationDuration">300</item>
+    </style>
+</resources>
